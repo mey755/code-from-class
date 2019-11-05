@@ -1,1 +1,1 @@
-print("i AM MACHINE")
+print("I am machine")
